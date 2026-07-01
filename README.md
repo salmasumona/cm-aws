@@ -531,7 +531,7 @@ AI_MODE=mock
 
 ### EC2 SSH failure
 
-Check :
+Check:
 
 ```text
 EC2_HOST is correct
