@@ -548,7 +548,7 @@ The AWS credentials used by GitHub Actions need permission to create/update Clou
 
 ---
 
-## 14. Cleanup
+### 14. Cleanup
 
 Delete backend stack:
 
